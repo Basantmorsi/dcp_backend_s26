@@ -1,0 +1,22 @@
+date,meal,food,calories,protein_g,carbs_g,fat_g
+2026-03-01,breakfast,Greek Yogurt,150,15,10,5
+2026-03-01,breakfast,Banana,105,1,27,0
+2026-03-01,lunch,Chicken Salad,420,35,12,20
+2026-03-01,snack,Almonds,170,6,6,15
+2026-03-01,dinner,Salmon with Rice,520,40,45,20
+
+2026-03-02,breakfast,Oatmeal with Berries,280,10,50,5
+2026-03-02,lunch,Turkey Sandwich,450,30,40,15
+2026-03-02,snack,Apple,95,0,25,0
+2026-03-02,dinner,Spaghetti Bolognese,650,35,75,22
+
+2026-03-03,breakfast,Scrambled Eggs,220,18,2,16
+2026-03-03,breakfast,Toast,120,4,20,2
+2026-03-03,lunch,Burrito Bowl,600,32,70,18
+2026-03-03,snack,Protein Bar,210,20,23,7
+2026-03-03,dinner,Grilled Chicken and Veggies,480,45,20,18
+
+2026-03-04,breakfast,Smoothie,300,12,55,6
+2026-03-04,lunch,Sushi Roll,400,20,50,10
+2026-03-04,snack,Dark Chocolate,180,3,20,12
+2026-03-04,dinner,Steak and Potatoes,700,50,40,35
